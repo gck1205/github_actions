@@ -1,2 +1,2 @@
 echo "This is github actions training"
-echo "Check for docker login"
+echo "Check for docker login" #
